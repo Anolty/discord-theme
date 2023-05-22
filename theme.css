@@ -18,7 +18,7 @@
     --username-button-right-margin: 12px; /* Width between the username button and the window controls */
 
     /*Server List*/
-    --server-icon-size: 40px;  /* Size of the server icons */
+    --server-icon-size: 45px;  /* Size of the server icons */
     --server-outer-margin: 14px;  /* Spacing between the edge of the container and the server icons.*/
     --server-spacing: 12.5px;  /* Spacing between each server icon*/
 
