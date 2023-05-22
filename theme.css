@@ -13,10 +13,9 @@
 
 :root {
     /*My Account Button*/
-    --username-button-width: 96px; /* Adjust the with of the username button to match your discord username lenght */
-    --username-button-padding: 6px; /* Padding for the username button */
+    --username-button-width: 93px; /* Adjust the with of the username button to match your discord username lenght */
+    --username-button-padding: 0px; /* Padding for the username button */
     --username-button-right-margin: 12px; /* Width between the username button and the window controls */
-    --username-button-bottom-margin: 120px;
 
     /*Server List*/
     --server-icon-size: 40px;  /* Size of the server icons */
